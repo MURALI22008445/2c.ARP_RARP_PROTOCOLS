@@ -2,8 +2,8 @@
 
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
-## NAME: MUEALI S
-## REG.NO : 212222230088
+## NAME: MURALI S
+## REG.NO:212222230088
 
 ## ALGORITHM:
 ### Client:
